@@ -1,6 +1,6 @@
 # SentiScan
 
-This project is a SAPP (Sentiment Analysis and Processing Pipeline), a Python-based system for scraping, sentiment analysis, and Google Sheets integration. It automates data extraction, classification, and storage efficiently.
+This project is a SAPP (Sentiment Analysis and Processing Pipeline), a Python-based system for scraping, sentiment analysis, and Google Sheets integration specifically designed for MC Taxi ride hailing app reviews. It automates data extraction, classification, and storage efficiently.
 
 ## Features
 - **Web Scraping**: Collects data from online sources.
