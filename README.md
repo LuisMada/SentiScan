@@ -11,7 +11,7 @@ This project is a SAPP (Sentiment Analysis and Processing Pipeline), a Python-ba
 1. Clone this repository:
    ```sh
    git clone https://github.com/your-username/SentiScan.git
-   cd SAPP
+   cd SentiScan
    ```
 2. Install dependencies:
    ```sh
