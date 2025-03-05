@@ -1,0 +1,10 @@
+{
+    "app_id": "com.angkas.customer",
+    "app_name": "Angkas",
+    "openai_api_key": "YOUR-OPENAI-API-KEY-HERE",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "hf_api_key": "YOUR-HUGGINGFACE-TOKEN-HERE",
+    "hf_model": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+    "date_range": [],
+    "time_to_scrape": 48
+  }

@@ -1,6 +1,6 @@
-# SAPP
+# SentiScan
 
-SAPP (Sentiment Analysis and Processing Pipeline) is a Python-based system for scraping, sentiment analysis, and Google Sheets integration. It automates data extraction, classification, and storage efficiently.
+This project is a SAPP (Sentiment Analysis and Processing Pipeline), a Python-based system for scraping, sentiment analysis, and Google Sheets integration. It automates data extraction, classification, and storage efficiently.
 
 ## Features
 - **Web Scraping**: Collects data from online sources.
@@ -10,7 +10,7 @@ SAPP (Sentiment Analysis and Processing Pipeline) is a Python-based system for s
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/SAPP.git
+   git clone https://github.com/your-username/SentiScan.git
    cd SAPP
    ```
 2. Install dependencies:
