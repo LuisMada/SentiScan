@@ -1,0 +1,12 @@
+requests  # For web scraping (if using requests)
+beautifulsoup4  # For parsing HTML (if used in scraping)
+pandas  # For data manipulation
+numpy  # For numerical operations
+google-auth  # For Google Sheets API authentication
+google-auth-oauthlib  # OAuth2 authentication for Google API
+google-auth-httplib2  # Google API HTTP client
+google-api-python-client  # For interacting with Google Sheets API
+openai  # If using OpenAI for sentiment analysis
+transformers  # If using Hugging Face for NLP tasks
+torch  # If using deep learning models for sentiment analysis
+scikit-learn  # If using ML models
